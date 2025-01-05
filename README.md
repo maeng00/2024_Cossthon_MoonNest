@@ -117,4 +117,4 @@
 ## 6. 발표 PDF
 - 프로젝트 자세히 알아보기
 
-[📄 Commit_PDF](https://github.com/maeng99/Commit-Front-End/blob/main/%EC%83%81%EB%AA%85%EB%8C%80%ED%95%99%EA%B5%90(%EC%84%9C%EC%9A%B8)_3%ED%8C%80_commit.pdf)
+[📄 MoonNest_PDF](https://github.com/maeng99/2024_Cossthon_MoonNest/blob/main/2024_SM%40COSSTHON_MoonNest_pdf.pdf)
