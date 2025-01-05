@@ -20,26 +20,22 @@
 <br/>
 
 ## 3. Key Features
-- **행동 발달 모니터링**:
+- **유아 행동 발달 모니터링**:
   - 영상을 기반으로 영유아를 관찰
   - 자세 추정 기술을 이용하여 영유아의 출생 개월별 동작 수행을 모니터링 및 기록
   <br />
   <img src="https://github.com/user-attachments/assets/e2c2d45b-0018-4e6e-b1eb-e4b539b2891a" width="600px"/>
 
-- **행동 발달 상태 진단 및 솔루션 제공**:
-  - 영상 모니터링 통계 결과를 주차별로 제공하고 또래와 비교하여 피드백 제공
+- **행동 발달 상태 진단 및 레포트 제공**:
+  - 영상 모니터링 레포트를 주차별로 제공하고 또래와 비교하여 피드백 제공
   <br />
-  <img src="https://github.com/user-attachments/assets/691d1ff4-0f2a-477d-a50e-5c02e0e910e8" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/267cd442-022a-4ebc-951b-45b00fbddee0" width="300px"/>
 
-- **나만의 플래너 작성 규칙**:
-  - 자신의 목표로 하는 워라밸 비율, 하루 수면시간, 하루 운동시간 및 개인적인 세부사항을 설정해둠으로써 AI를 통한 피드백 시 부가적인 정보로 활용 가능
+- **맞춤형 양육 가이드 제공**:
+  - 분석된 데이터를 기반으로 영유아의 출산 개월별 행동 발달에 필요한 동작 가이드
+  - 발달 장애가 의심될 경우 근처 의료 기관 연계
   <br />
-  <img src="https://github.com/user-attachments/assets/05c6156d-93ed-4ace-b5a2-5fa8021bb4b6" width="600px"/>
-
-- **일정 성취도 기록**:
-  - 편리한 UI/UX를 제공하여 하루 일정에 대해서 (달성, 연기, 미달성)을 기록 가능
-  <br />
-  <img src="https://github.com/user-attachments/assets/34829d81-3c6d-46b4-a92d-e35fc2bf9c48" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/5cb9a775-3e41-4e28-8883-754ee97f3258" width="500px"/>
 <br/>
 <br/>
 
