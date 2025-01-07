@@ -14,6 +14,7 @@
 <br/>
 
 ## 2. Team Members
+- **Team: 이상해씨팀**
 | 김재관 | 구유진 | 맹의현 | 유세리 | 
 |:------:|:------:|:------:|:------:|
 | PM/BE | Design/PPT | FE/CV | Design/PPT |
