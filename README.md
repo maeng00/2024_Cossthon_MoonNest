@@ -122,6 +122,4 @@ Team: **"이상해씨팀"**
 <br/>
 
 ## 7. Presentation PDF
-- 프로젝트 자세히 알아보기
-
-[📄 MoonNest_PDF](https://github.com/maeng99/2024_Cossthon_MoonNest/blob/main/2024_SM%40COSSTHON_MoonNest_pdf.pdf)
+- 프로젝트 자세히 알아보기<br />[📄 MoonNest_PDF](https://github.com/maeng99/2024_Cossthon_MoonNest/blob/main/2024_SM%40COSSTHON_MoonNest_pdf.pdf)
