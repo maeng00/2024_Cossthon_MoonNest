@@ -21,7 +21,7 @@ export default function Test() {
     if (isPlaying) {
       const timeout = setTimeout(() => {
         setMessages((prevMessages) => [...prevMessages, "(대근육) 뒤집기 +3"]);
-      }, 37000);
+      }, 9000);
 
       return () => clearTimeout(timeout);
     }
