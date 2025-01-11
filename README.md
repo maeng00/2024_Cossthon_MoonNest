@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/39e4cbde-2e12-4636-b680-49dcc2ccebf4" width="100%"/>
 
-# 👶[1st 최우수상 수상] 제3회 2024 SM@ COSSTHON-MoonNest: AI 기반 영유아 행동 발달 추적 서비스 (이상해씨팀)👶
+# 👶[1st 최우수상 수상] 제3회 2024 SM@ COSSTHON - "MoonNest": AI 기반 영유아 행동 발달 추적 서비스 (이상해씨팀)👶
 - "제3회 2024 SM@ COSSTHON" 1st 최우수상 수상   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/66ee4f9b-b6a1-4a4a-90f3-b3670335fed6" width="300px"/>
@@ -9,19 +9,19 @@
 <br/>
 
 ## 1. Project Overview
-- **프로젝트 이름: MoonNest**
+- 프로젝트 이름: **"MoonNest"**
 - 프로젝트 설명: AI 기반 영유아 행동 발달 추적 서비스
+- 프로젝트 기간: 2024.12.26 ~ 2024.12.27 (1박2일)
 <br/>
 
 ## 2. Team Members
-**Team: 이상해씨팀**
-
+Team: **"이상해씨팀"**
 | 김재관 | 구유진 | 맹의현 | 유세리 | 
 |:------:|:------:|:------:|:------:|
 | PM/BE | Design/PPT | FE/CV | Design/PPT |
 <br/>
 
-## 3. Key Features
+## 3. Key Points
 - **유아 행동 발달 모니터링**:
   - 영상을 기반으로 영유아를 관찰
   - 자세 추정 기술을 이용하여 영유아의 출생 개월별 동작 수행을 모니터링 및 기록
@@ -122,6 +122,4 @@
 <br/>
 
 ## 7. Presentation PDF
-- 프로젝트 자세히 알아보기
-
-[📄 MoonNest_PDF](https://github.com/maeng99/2024_Cossthon_MoonNest/blob/main/2024_SM%40COSSTHON_MoonNest_pdf.pdf)
+- 프로젝트 자세히 알아보기<br />[📄 MoonNest_PDF](https://github.com/maeng99/2024_Cossthon_MoonNest/blob/main/2024_SM%40COSSTHON_MoonNest_pdf.pdf)
