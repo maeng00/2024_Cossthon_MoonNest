@@ -4,7 +4,7 @@ import ScrollToTop from "./components/scrollToTop.tsx";
 import Home from "./tabs/home.tsx";
 import Test from "./tabs/test.tsx";
 import Report from "./tabs/report.tsx";
-import MyPage from "./tabs/mypage.tsx";
+import MyPage from "./tabs/myPage.tsx";
 import "./App.css";
 
 function App() {
