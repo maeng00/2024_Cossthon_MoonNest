@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/39e4cbde-2e12-4636-b680-49dcc2ccebf4" width="100%"/>
+<!-- <img src="https://github.com/user-attachments/assets/39e4cbde-2e12-4636-b680-49dcc2ccebf4" width="100%"/> -->
 
-# 👶[1st 최우수상 수상] 제3회 2024 SM@ COSSTHON - "MoonNest": AI 기반 영유아 행동 발달 추적 서비스 (이상해씨팀)👶
+# [1st 최우수상 수상] 제3회 2024 SM@ COSSTHON - "MoonNest": AI 기반 영유아 행동 발달 추적 서비스 (이상해씨팀)
 - "제3회 2024 SM@ COSSTHON" 1st 최우수상 수상   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/66ee4f9b-b6a1-4a4a-90f3-b3670335fed6" width="300px"/>
